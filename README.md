@@ -86,3 +86,11 @@ class User extends Authenticatable
         ]
     ],'search')->get();
 ```
+
+
+### Available scope
+
+- filters(value,field)
+- filtersInput(inputName,field)
+- orFilters(value,field)
+- orFiltersInput(inputName,field)
