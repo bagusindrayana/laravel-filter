@@ -1,6 +1,14 @@
-## LARAVEL-FILTER
+# LARAVEL-FILTER
 
 filter eloquent model laravel
+
+
+## Installation
+
+```
+composer require bagusindrayana/laravel-filter
+ 
+``
 
 
 - In Model
