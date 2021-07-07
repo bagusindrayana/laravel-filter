@@ -7,8 +7,8 @@ filter eloquent model laravel
 
 ```
 composer require bagusindrayana/laravel-filter
- 
-``
+
+```
 
 
 - In Model
