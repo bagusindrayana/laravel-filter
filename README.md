@@ -57,7 +57,8 @@ class User extends Authenticatable
     }
 
     //you will only need call fuction name
-    User::filters()->get()
+    User::filters('john')->get();
+    User::filtersInput(null,'search')->get();
 
 ```
 
