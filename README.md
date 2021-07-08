@@ -63,6 +63,7 @@ class User extends Authenticatable
 ```
 
 - Relationship format
+you need use trait to all model in relationship
 
 ```php
     protected $filterFields = [
