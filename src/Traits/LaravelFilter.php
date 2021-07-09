@@ -28,6 +28,8 @@ trait LaravelFilter
                 }
             }
         });
+
+        return $query;
     }
 
     //filter with input
