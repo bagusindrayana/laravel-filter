@@ -92,6 +92,6 @@ you need use trait to all model in relationship
 ### Available scope
 
 - filters(value,field)
-- filtersInput(inputName,field)
+- filtersInput(field,inputName)
 - orFilters(value,field)
-- orFiltersInput(inputName,field)
+- orFiltersInput(field,inputName)
